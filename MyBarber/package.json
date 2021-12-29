@@ -10,8 +10,23 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.14",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "node": "^14.18.2",
+    "nvm-win": "^0.2.4",
     "react": "17.0.2",
-    "react-native": "0.66.4"
+    "react-native": "0.66.4",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-permissions": "^3.2.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.1",
+    "react-native-svg": "^12.1.1",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-swiper": "^1.6.0",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
